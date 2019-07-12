@@ -1,9 +1,9 @@
-package net.daemonumbra.gradle.lazy;
+package net.daemonumbra.gradle;
 
 import org.gradle.api.Plugin;
 import org.gradle.api.Project;
 
-public class LazyGradle implements Plugin<Project>
+public class DaemonGradle implements Plugin<Project>
 {
     @Override
     public void apply(Project project)

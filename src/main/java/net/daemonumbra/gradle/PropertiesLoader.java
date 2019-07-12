@@ -1,4 +1,4 @@
-package net.daemonumbra.gradle.lazy;
+package net.daemonumbra.gradle;
 
 import org.gradle.api.Project;
 
